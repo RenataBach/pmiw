@@ -1,0 +1,14 @@
+
+Ayuda a Bob Esponja a recuperar la receta secreta, y llegar a tiempo al concurso de cocina.
+Bob Esponja: ¡Hoy es el gran día! Voy a conseguir mi licencia de conducir  y llegare justo a tiempo para el concurso.
+Don Cangrejo: ¡Bob, estamos en problemas! Plankton ha robado la receta secreta, necesito tu ayuda. 
+Bob Esponja: Oh no, ¿Qué hago ahora? Debo tomar una decisión inmediatamente.
+Bob Esponja: Si obtengo la licencia llegaré mas rápido a detener a Plankton.
+Bob Esponja: ¡No hay tiempo que perder! Correré tras él.
+Plankton: Qué sorpresa, Bob Esponja. Pero ya es demasiado tarde. ¿Cómo planeas 
+detenerme sin licencia?
+Bob Esponja: Devuelve la receta ahora mismo.
+Plankton: ¡Ja! Ni en tus sueños.
+Bob Esponja: Llévame al concurso y compitamos en contra. Quien haga la mejor Cangreburguer gana.
+Plankton: ¡Acepto! Buena suerte cocinando sin la receta.
+
